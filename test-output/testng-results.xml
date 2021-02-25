@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="127160" started-at="2021-02-24T21:54:49 IST" finished-at="2021-02-24T21:56:56 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="127160" started-at="2021-02-24T21:54:49 IST" finished-at="2021-02-24T21:56:56 IST">
+      <class name="MavenProject.Sample2Test">
+        <test-method status="PASS" signature="GetTitle()[pri:0, instance:MavenProject.Sample2Test@6737fd8f]" name="GetTitle" duration-ms="127035" started-at="2021-02-24T21:54:49 IST" finished-at="2021-02-24T21:56:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetTitle -->
+      </class> <!-- MavenProject.Sample2Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
